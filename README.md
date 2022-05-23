@@ -1,5 +1,5 @@
 # todo-app✏️
-Simple todo-app with Mongo Data Base. 
+Simple todo-app created with MERN technology. 
 ## Quick Start
 ### Add a default.json file in config folder:
 ```json
