@@ -25,3 +25,5 @@ npm install
 cd..
 npm run dev
 ```
+### Or just look here 😉
+https://todo-app-mern-v1.herokuapp.com
