@@ -1,5 +1,5 @@
 # todo-app✏️
-Simple todo-app created with MERN technology. 
+Simple todo-app created by MERN technology. 
 ## Quick Start
 ### Add a default.json file in config folder:
 ```json
