@@ -27,3 +27,5 @@ npm run dev
 ```
 ### Or just look here 😉
 https://todo-app-mern-v1.herokuapp.com
+</br></br>
+:exclamation: *The project is placed on the heroku server. It may take a while for awake and load.
